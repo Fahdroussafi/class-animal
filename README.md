@@ -1,1 +1,1 @@
-# class-personMVC
+# class-animal
